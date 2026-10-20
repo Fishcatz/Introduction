@@ -9,5 +9,5 @@
 
 $\color{#F7EFCAFF}{\text{𝐃𝐧𝐢}}$
 
-    $\color{red}{\text{Important Alert}}$
+$\color{red}{\text{Important Alert}}$
 
