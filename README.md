@@ -8,3 +8,4 @@
 <img width="500" height="53" alt="tumblr_f593696adbe90609f380e9e4de70bd9c_795d08c2_400" src="https://github.com/user-attachments/assets/4abab93d-0dd8-4757-b2cf-8630946605fc" />
 
 $\color{#F7EFCAFF}{\text{𝐃𝐧𝐢}}$
+`text`
