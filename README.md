@@ -14,3 +14,5 @@ $\color{#F7EFCAFF}{\text{𝐃𝐧𝐢}}$
 $\color{#F7EFCAFF}{\text{Comfort characters}}$
 
 `Grox froggydude thatmob twixxel whispy green and more`
+
+<img width="540" height="304" alt="2aafbff9c75012c41c2c9abd92d5de35" src="https://github.com/user-attachments/assets/db118c4e-f528-4f1b-8c96-57e66be7f5e8" />
