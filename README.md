@@ -11,4 +11,6 @@ $\color{#F7EFCAFF}{\text{𝐃𝐧𝐢}}$
 
 `𝐏𝐫𝐨𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 , 𝐝𝐚𝐫𝐤𝐬𝐡𝐢𝐩𝐩𝐞𝐫𝐬 , 𝐌.𝐀.𝐏 , 𝐌𝐞𝐨𝐰𝐛𝐚𝐡 𝐟𝐚𝐧𝐬 , 𝐀𝐍𝐃 𝐨𝐭𝐡𝐞𝐫𝐬`
 
-wipwipwip
+$\color{#F7EFCAFF}{\text{Comfort characters}}$
+
+`Grox froggydude thatmob twixxel whispy green and more`
